@@ -1,0 +1,5 @@
+﻿  VectorSTL.cpp
+VectorSTL.cpp(54): warning C4018: '<' : signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  VectorSTL.vcxproj -> C:\Users\Karan\Documents\Visual Studio 2013\Projects\VectorSTL\Release\VectorSTL.exe
